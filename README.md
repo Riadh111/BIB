@@ -4,8 +4,8 @@ instruction partie Angular:
 1-Installer angular 8 : installer node.js depuis le site , installer CLI avec la commande "npm install -g @angular/cli"   
 
 2-Ouvrir  le dossier du projet BIB_ANGULAR dans l'invite de commande et taper ces commandes   
-    - npm install --save-dev @angular-devkit/build-angular
-    - npm install
+    * npm install --save-dev @angular-devkit/build-angular  
+    * npm install
 
 3-Executer la partie angular avec la commande : ng serve   
 
