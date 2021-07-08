@@ -1,0 +1,14 @@
+<h3>Modifier Livre</h3>
+<div [hidden]="submitted" style="width: 400px;">
+  <form (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="name">Livre</label>
+      <input type="text" class="form-control" id="livre" 
+      required [(ngModel)]="livre.titre" name="livre">
+    </div>
+
+    
+
+    <button type="submit" class="btn btn-success">Submit</button>
+  </form>
+</div>
