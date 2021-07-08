@@ -2,7 +2,7 @@
 -Ouvrir  le dossier du projet BIB_ANGULAR dans l'invite de commande et taper ces commandes   
     - npm install --save-dev @angular-devkit/build-angular
     
-- npm install
+    - npm install
 
 -Executer la partie angular avec la commande : ng serve   
 
