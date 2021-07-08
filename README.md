@@ -1,3 +1,21 @@
+-Installer angular 8 : installer node.js depuis le site , installer CLI avec la commande "npm install -g @angular/cli"   
+-Ouvrir  le dossier du projet BIB_ANGULAR dans l'invite de commande et taper ces commandes   
+    - npm install --save-dev @angular-devkit/build-angular
+    
+- npm install
+
+-Executer la partie angular avec la commande : ng serve   
+
+-Utiliser l'Url   http://localhost:4200/    pour acceder a l'application 
+
+
+
+
+
+
+
+
+
 # Angular8SpringbootClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
